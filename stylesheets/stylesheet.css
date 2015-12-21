@@ -9,6 +9,13 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+/* added by mysele*/
+p {
+  text-indent:2em;
+}
+
+
+/* added by my self*/
 a {
   color: #1e6bb8;
   text-decoration: none; }
